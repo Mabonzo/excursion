@@ -19,3 +19,8 @@ a {
   font-size: 21px;
   color: grey;
 }
+.copy {
+  right: 5px;
+  bottom: 0px;
+  position: fixed;
+}
